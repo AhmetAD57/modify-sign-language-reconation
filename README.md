@@ -1,6 +1,5 @@
 # Turkish Sign Language Characters Recognition
 
-
 ## Used Tools
 - TensorFlow, TensorFlowLite, TensorBoard
 - PyQt5
@@ -9,3 +8,6 @@
 - Matplotlib
 - seaborn
  
+ ## License
+MIT
+
