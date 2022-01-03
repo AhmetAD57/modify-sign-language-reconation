@@ -40,7 +40,7 @@ python isaredilialgila.py
   <img src="./images/5.png" width="30%"/> 
 </p>
  
- > For more details: [Details]("./report.pdf")
+ > For more details: [Details](./report.pdf)
  
 ## License
 MIT
