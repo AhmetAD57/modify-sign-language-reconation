@@ -25,7 +25,9 @@ python isaredilialgila.py
 - Model visualization with TensorBoard.
 - Real time model testing with OpenCV.
 - Model transformation for use with TensorFlowLite.
- 
+
+>⚠️ For more details: [Report](./report.pdf)
+
 ## Screenshots
  ### Desktop App
 <p align="center">
@@ -39,8 +41,6 @@ python isaredilialgila.py
   <img src="./images/4.png" width="30%"/>
   <img src="./images/5.png" width="30%"/> 
 </p>
- 
- > For more details: [Report](./report.pdf)
  
 ## License
 MIT
