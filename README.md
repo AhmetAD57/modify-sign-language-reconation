@@ -1,5 +1,7 @@
 # Turkish Sign Language Characters Recognition
 
+CNN Model training with desktop GUI for recognition turkish sign language characters and using trained model with mobile app.
+
 ## Used Tools
 - TensorFlow, TensorFlowLite, TensorBoard
 - PyQt5
@@ -38,6 +40,7 @@ python isaredilialgila.py
   <img src="./images/5.png" width="30%"/> 
 </p>
  
+ > For more details: [Details]("./resport.pdf")
  
 ## License
 MIT
