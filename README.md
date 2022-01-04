@@ -1,4 +1,5 @@
 # Turkish Sign Language Characters Recognition
+<img src="./images/banner.png"/>
 
 CNN Model training with desktop GUI for recognition turkish sign language characters and using trained model with mobile app.
 
